@@ -1,0 +1,15 @@
+			---------------------------JAVA----------------------
+PATTERNS----->
+1)Hollow butterfly pattern(OOPS copy of 4th sem)
+2)Pascle's triangle pattern(OOPS copy of 4th sem)
+3)
+*
+* *
+* * *
+* * * * ------------->By recursion method..
+4) 
+* * * *
+* * *
+* *
+*            ------------->By recursion method...
+ 
